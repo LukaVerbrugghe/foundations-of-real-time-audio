@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Blackfruit Studios
+  companyName: DefaultCompany
   productName: UprjFoundationsOfRealTimeAudio
   defaultCursor:
     fileID: 0
